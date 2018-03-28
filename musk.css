@@ -20,6 +20,6 @@ iframe
 }
 
 li {
-	background: green;}
+	color: blue;}
 li:nth-child(odd)
-{background: red;}
+{color: red;}
